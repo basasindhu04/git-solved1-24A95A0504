@@ -1,5 +1,6 @@
 #  My Git Mastery Challenge Journey
 
+
 ##  Student Information
 - **Name**: Basa Sindhu Latha  
 - **Student ID**: 24A95A0504  
@@ -33,9 +34,9 @@ Cloned instructor's repository with pre-built conflicts and resolved all merge c
 | git log        | 30+        | View history                            |
 | git diff       | 20+        | Compare changes                         |
 
-## 🔧 Conflicts Resolved
+##  Conflicts Resolved
 
-### 🔀 Merge 1: `main` + `dev` (6 files)
+###  Merge 1: `main` + `dev` (6 files)
 
 #### Conflict 1: `config/app-config.yaml`
 - **Issue**: Production used port 8080, development used 3000  
@@ -49,7 +50,7 @@ Cloned instructor's repository with pre-built conflicts and resolved all merge c
 - **Resolution**: Created separate profiles for production and development  
 - **Strategy**: Restructured JSON to support both environments  
 - **Difficulty**: Medium  
-- **Time**: 10 minutes  
+- **Time**: 10 minute 
 
 #### Conflict 3: `scripts/deploy.sh`
 - **Issue**: Different deployment strategies (production vs docker-compose)  
