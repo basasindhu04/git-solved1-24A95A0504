@@ -1,6 +1,5 @@
 #  My Git Mastery Challenge Journey
 
-
 ##  Student Information
 - **Name**: Basa Sindhu Latha  
 - **Student ID**: 24A95A0504  
@@ -12,6 +11,7 @@
 Cloned instructor's repository with pre-built conflicts and resolved all merge conflicts across multiple branches using proper Git workflows.
 
 ##  Commands Used
+
 
 | Command        | Times Used | Purpose                                 |
 |----------------|------------|-----------------------------------------|
